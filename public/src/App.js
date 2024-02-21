@@ -6,7 +6,7 @@ import Login from "./pages/Login";
 import Register from "./pages/Register";
 export default function App() {
 
-  var api_token = "essu_YlVJeWRtRkpNRUoxUzI1SFJESlRjMjF6UmpFNmVUUlpiVVZOVG5oVGNVZEtWMVJEYkdSWWFWRkxkdz09AAAAAJHzlR8="
+  var api_token = "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";
   return (
     <BrowserRouter>
       <Routes>
