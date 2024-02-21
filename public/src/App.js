@@ -5,7 +5,7 @@ import Chat from "./pages/Chat";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 export default function App() {
-
+  var api_token = "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";
   return (
     <BrowserRouter>
       <Routes>
